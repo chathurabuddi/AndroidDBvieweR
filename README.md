@@ -1,5 +1,3 @@
-![Application icon](https://github.com/thedathoudarya/AndroidDBvieweR/blob/master/images/application_icon.png)  
-  
 # AndroidDBvieweR  
   
 ### * [About](https://github.com/thedathoudarya/AndroidDBvieweR/wiki)
