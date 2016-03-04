@@ -1,6 +1,6 @@
 # AndroidDBvieweR  
   
-  ![Application](http://i.imgur.com/JboJGOP.gif)
+  ![Application](http://i.imgur.com/UMWxifj.gif)
   
 ### * [About](https://github.com/thedathoudarya/AndroidDBvieweR/wiki)
 ### * [Configuration](https://github.com/thedathoudarya/AndroidDBvieweR/wiki/Configuration)  
