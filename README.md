@@ -116,7 +116,9 @@ Add `INTERNET` permission in `AndroidManifest.xml` file.  And also add your cust
   
 If you have a trouble establishing Android USB debug connection, there is an application called [PdaNet](http://pdanet.co/) which enables the USB debugger connection between your computer and android device.  
   
-## Screenshots  
+Application screenshots can be found in [here](https://github.com/thedathoudarya/AndroidDBvieweR/wiki/Screenshots)  
+  
+
   
 
   
